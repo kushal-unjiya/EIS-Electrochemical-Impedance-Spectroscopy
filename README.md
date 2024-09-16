@@ -1,4 +1,4 @@
-# Paper Title [TBD
+# Paper Title [TBD]
 
 This repository contains the official implementation of our paper titled " _TBD_ " published in the journal " _TBD_ ". [Paper Link]
 
